@@ -72,8 +72,8 @@ about:
 
 extra:
   recipe-maintainers:
-    - conda-forge/r
     - ColineRoyaux
+    - conda-forge/r
 
 # Package: bioseq
 # Type: Package
