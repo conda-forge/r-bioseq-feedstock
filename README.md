@@ -1,11 +1,11 @@
-About r-bioseq
-==============
+About r-bioseq-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bioseq-feedstock/blob/main/LICENSE.txt)
 
 Home: https://fkeck.github.io/bioseq/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bioseq-feedstock/blob/main/LICENSE.txt)
 
 Summary: Classes and functions to work with biological sequences (DNA, RNA and amino acid sequences). Implements S3 infrastructure to work with biological sequences as described in Keck (2020) <doi:10.1111/2041-210X.13490>. Provides a collection of functions to perform biological conversion among classes (transcription, translation) and basic operations on sequences (detection, selection and replacement based on positions or patterns). The package also provides functions to import and export sequences from and to other package formats.
 
